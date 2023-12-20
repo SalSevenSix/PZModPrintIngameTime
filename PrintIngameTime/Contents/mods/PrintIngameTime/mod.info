@@ -1,5 +1,5 @@
 name=Print Ingame Time
 poster=poster.png
 id=PIT
-description=Print Ingame Time
+description=Print Ingame Time (every 10 mins)
 url=
