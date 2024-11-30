@@ -1,6 +1,6 @@
 version=1
 id=2740018049
 title=Print Ingame Time
-description=Very simple mod that prints the in-game date time to the server console. Useful for tools that extract server information from the console. Choose ONE Mod ID... PIT for every 10 minutes OR PIT1h for every hour.
+description=Very simple mod that prints the in-game date time to the server console. Useful for tools that extract server information from the console. Choose ONE Mod ID... PIT for every 10 minutes, PITaPD to also include player death message, PIT1h for every hour.
 tags=Build 41;Misc
 visibility=public
